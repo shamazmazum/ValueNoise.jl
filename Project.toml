@@ -1,0 +1,7 @@
+name = "ValueNoise"
+uuid = "35091f0e-be1d-47ce-adaa-24eb4aacf3ac"
+authors = ["Vasily Postnicov <shamaz.mazum@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "^1.0"
